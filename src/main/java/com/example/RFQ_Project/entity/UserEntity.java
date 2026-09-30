@@ -1,4 +1,5 @@
 package com.example.RFQ_Project.entity;
 
-public class UserService {
+public class UserEntity {
+    //
 }
